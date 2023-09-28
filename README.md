@@ -30,7 +30,6 @@ https://github.com/geektcp/everking.git
 everking巫妖王之怒登录器
 
 ### 公测账号
-```
 > 目前不开放注册，因为是公益服，不收任何形式任何费用。
 
 
