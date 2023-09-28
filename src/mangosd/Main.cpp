@@ -1,5 +1,5 @@
 /*
- * This file is part of the CMaNGOS Project. See AUTHORS file for Copyright information
+ * This file is part of Everking. See AUTHORS file for Copyright information
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -172,7 +172,7 @@ int main(int argc, char* argv[])
         "     | |ontinued| |\\/| | __ _| . ` | | |_ | |  | |\\___ \\ \n"
         "     | |____    | |  | |/ _` | |\\  | |__| | |__| |____) |\n"
         "      \\_____|   |_|  |_| (_| |_| \\_|\\_____|\\____/ \\____/ \n"
-        "      http://cmangos.net\\__,_|     Doing emulation right!\n\n");
+        "      http://everwar.cn\\__,_|     Doing something right!\n\n");
 
     sLog.outString("Built on %s at %s", __DATE__, __TIME__);
     sLog.outString("Built for %s", _ENDIAN_PLATFORM);

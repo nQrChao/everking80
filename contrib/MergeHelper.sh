@@ -1,5 +1,5 @@
 #!/bin/sh
-# This file is part of the CMaNGOS Project. See AUTHORS file for Copyright information
+# This file is part of Everking. See AUTHORS file for Copyright information
 # This program is free software licensed under GPL version 2
 # Please see the included COPYING for full text */
 

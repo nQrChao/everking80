@@ -1,5 +1,5 @@
 #!/bin/sh
-# This file is part of the CMaNGOS Project. See AUTHORS file for Copyright information
+# This file is part of Everking. See AUTHORS file for Copyright information
 # This program is free software licensed under GPL version 2
 # Please see the included COPYING for full text */
 
@@ -50,7 +50,7 @@ function read_yes_no {
 
 # Main Script
 
-echo "Welcome to CMaNGOS' helper tool to create a branch for a development project"
+echo "Welcome to everkwar.cn' helper tool to create a branch for a development project"
 echo "This script will guide you through seven steps to set up a branch in which you can develop your project"
 echo
 
@@ -182,7 +182,7 @@ then
   echo
   echo "Please link to your started project on our forum!"
   echo
-  echo "Here is some suggested content for publishing on the http://cmangos.net forums at:"
+  echo "Here is some suggested content for publishing on the http://everwar.cn forums at:"
   echo "    <LINK>"
   echo "or for a custom project:    <LINK2>"
   echo
