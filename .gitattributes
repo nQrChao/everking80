@@ -17,3 +17,11 @@ src/shared/revision_sql.h eol=lf
 
 # special files which must ignore whitespace
 *.patch      whitespace=-trailing-space
+
+
+*.cpp linguist-language=c++
+*.c linguist-language=c
+*.h linguist-language=c
+*.java inguist-language=java
+*.xml inguist-language=java
+*.sh inguist-language=shell
