@@ -3,8 +3,7 @@ evering开源魔兽世界
 > 魔兽世界是世界上最成功的游戏，这是一套完整的服务端源码版本。
 2023年6月，官网已经正式发布。欢迎点赞收藏。
 
-![screen](https://github.com/geektcp/everking/blob/main/screen/gm.jpg)
-
+![screen](https://github.com/geektcp/everking/blob/main/screen/gm.png)
 # website
 <a href="http://everwar.cn" target="_blank">Everking开源魔兽世界官网</a>
 <br/>
@@ -67,4 +66,4 @@ everwar.cn
 ```
 
 
-![screen](https://github.com/geektcp/everking/blob/main/screen/7.jpg)
+![screen](https://github.com/geektcp/everking/blob/main/screen/7.png)
