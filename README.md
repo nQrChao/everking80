@@ -26,7 +26,8 @@ https://github.com/geektcp/everking.git
 
 ## 登录器下载
 
-everking巫妖王之怒登录器
+<a href="http://client.everwar.cn/wow_3_3_5/" target="_blank">everking巫妖王之怒登录器</a>
+<br/>
 
 ### 公测账号
 > 目前不开放注册，因为是公益服，不收任何形式任何费用。
